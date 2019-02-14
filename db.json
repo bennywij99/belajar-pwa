@@ -1,0 +1,13 @@
+{
+"products":
+[{"id":1,"name":"Swallow (unidentified)","category":"Aquamarine"},
+{"id":2,"name":"Brocket, brown","category":"Fuscia"},
+{"id":3,"name":"Porcupine, african","category":"Green"},
+{"id":4,"name":"Herring gull","category":"Green"},
+{"id":5,"name":"Baleen whale","category":"Violet"},
+{"id":6,"name":"Bushbuck","category":"Turquoise"},
+{"id":7,"name":"Long-tailed skua","category":"Blue"},
+{"id":8,"name":"Kangaroo, red","category":"Violet"},
+{"id":9,"name":"Bulbul, african red-eyed","category":"Green"},
+{"id":10,"name":"Vicuna","category":"Purple"}]
+}
